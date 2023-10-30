@@ -1,2 +1,2 @@
 # Radio
-Information and links relative to radio communications.
+General nformation and links relative to radio communications. 
